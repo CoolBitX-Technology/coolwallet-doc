@@ -23,7 +23,6 @@ Tests
 =====
 testtesttest
 
-..toctree::
-  :caption: Getting started
-  Introduction.md
+.. toctree::
+   Introduction.md
 
