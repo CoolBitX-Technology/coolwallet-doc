@@ -24,5 +24,7 @@ Tests
 testtesttest
 
 .. toctree::
-   Introduction.md
+   Introduction
+   Bitcoin
+   Ethereum
 
