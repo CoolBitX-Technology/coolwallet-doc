@@ -20,6 +20,7 @@ Indices and tables
 * :ref:`search`
 
 .. toctree::
+   :maxdepth: 1
    :caption: Deeplink
 
    Introduction
