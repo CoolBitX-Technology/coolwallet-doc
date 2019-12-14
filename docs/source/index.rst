@@ -24,5 +24,6 @@ Tests
 testtesttest
 
 ..toctree::
+  :caption: Getting started
   Introduction.md
 
