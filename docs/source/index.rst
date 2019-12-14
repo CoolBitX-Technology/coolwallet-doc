@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to coolwallets-doc's documentation!
+Welcome to CoolWallet's documentation!
 ===========================================
 
 .. toctree::
@@ -21,6 +21,7 @@ Indices and tables
 
 .. toctree::
    :maxdepth: 1
+   :hidden:
    :caption: Deeplink
 
    Introduction
