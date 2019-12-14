@@ -19,11 +19,9 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-Tests
-=====
-testtesttest
-
 .. toctree::
+   :caption: Deeplink
+
    Introduction
    Bitcoin
    Ethereum
