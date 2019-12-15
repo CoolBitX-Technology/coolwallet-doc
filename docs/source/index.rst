@@ -11,6 +11,7 @@ Indices and tables
 
 .. toctree::
    :maxdepth: 1
+   :hidden:
    :caption: Deeplink
 
    deeplink/introduction
@@ -18,5 +19,7 @@ Indices and tables
    deeplink/ethereum
 
    :caption: WalletConnect
+
+   walletconnect/index
 
 
