@@ -32,7 +32,7 @@ This documentation aims to provide explicit information to conduct operations an
    deeplink/ethereum-deprecated
 
 .. toctree::
-   :hidden:
+   :maxdepth: 1
    :caption: WalletConnect
 
    walletconnect/index
