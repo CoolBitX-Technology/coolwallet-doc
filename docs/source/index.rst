@@ -18,9 +18,15 @@ This documentation aims to provide explicit information to conduct operations an
 
 .. toctree::
    :maxdepth: 1
+   :caption: Secure Recover
+
+   secure-recover/index
+
+.. toctree::
+   :maxdepth: 1
    :caption: Deeplink
 
-   deeplink/introduction
+   deeplink/index
    deeplink/bitcoin
    deeplink/ethereum
    deeplink/ethereum-deprecated
