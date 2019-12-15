@@ -1,4 +1,4 @@
-# CoolWalletS Deep Link Scheme
+# CoolWalletS Scheme
 
 Use the following Scheme to open CoolWalletS App.
 

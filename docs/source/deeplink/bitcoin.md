@@ -1,4 +1,4 @@
-# Bitcoin DeepLink Scheme
+# Bitcoin
 
 * coinType: BTC
 

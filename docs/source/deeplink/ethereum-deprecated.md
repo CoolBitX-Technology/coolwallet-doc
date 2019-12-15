@@ -1,4 +1,4 @@
-# Deep Link - Ethereum
+# Ethereum (Deprecated)
 
 *Deprecated* - Only used by Joyso.
 
