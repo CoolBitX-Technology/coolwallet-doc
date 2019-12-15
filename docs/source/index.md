@@ -5,16 +5,10 @@
 
 # Welcome to CoolWallet's documentation!
 
-This documentation aims to provide explicit information to conduct operations and integrations for CoolWalletS users.
+
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Introduction
-
-   introduction/index
-
-.. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Deeplink
 
    deeplink/introduction
