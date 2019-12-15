@@ -6,6 +6,8 @@
 Welcome to CoolWallet's documentation!
 ===========================================
 
+.. image:: https://drive.google.com/open?id=1nwjKwSixBIQgTjRP1brBlPxYWyLJL48Y
+
 This documentation aims to provide explicit information to conduct operations and integrations for CoolWalletS users.
 
 .. toctree::
