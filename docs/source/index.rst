@@ -15,6 +15,7 @@ Welcome to CoolWallet's documentation!
    deeplink/introduction
    deeplink/bitcoin
    deeplink/ethereum
+   deeplink/ethereum(deprecated).md
 
 .. toctree::
    :hidden:
