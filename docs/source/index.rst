@@ -6,7 +6,7 @@
 Welcome to CoolWallet's documentation!
 ===========================================
 
-.. image:: https://drive.google.com/open?id=1nwjKwSixBIQgTjRP1brBlPxYWyLJL48Y
+.. image:: https://drive.google.com/file/d/1nwjKwSixBIQgTjRP1brBlPxYWyLJL48Y/view
 
 This documentation aims to provide explicit information to conduct operations and integrations for CoolWalletS users.
 
