@@ -24,6 +24,7 @@ Indices and tables
    :hidden:
    :caption: Deeplink
 
+   Deeplink
    Introduction
    Bitcoin
    Ethereum
