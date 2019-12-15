@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'coolwallets-doc'
+project = u'coolwallet-docs'
 copyright = u'2019, CoolBitX'
 author = u'CoolBitX'
 
@@ -50,8 +50,7 @@ templates_path = ['_templates']
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
 #
-# source_suffix = ['.rst', '.md']
-source_suffix = '.rst'
+source_suffix = ['.rst', '.md']
 
 # The master toctree document.
 master_doc = 'index'
@@ -104,7 +103,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'coolwallets-docdoc'
+htmlhelp_basename = 'coolwallet-docs'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -131,7 +130,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'coolwallets-doc.tex', u'coolwallets-doc Documentation',
+    (master_doc, 'coolwallet-docs.tex', u'coolwallet-docs Documentation',
      u'CoolBitX', 'manual'),
 ]
 
@@ -141,7 +140,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'coolwallets-doc', u'coolwallets-doc Documentation',
+    (master_doc, 'coolwallet-docs', u'coolwallet-docs Documentation',
      [author], 1)
 ]
 
@@ -152,8 +151,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'coolwallets-doc', u'coolwallets-doc Documentation',
-     author, 'coolwallets-doc', 'One line description of project.',
+    (master_doc, 'coolwallet-docs', u'coolwallet-docs Documentation',
+     author, 'coolwallet-docs', 'One line description of project.',
      'Miscellaneous'),
 ]
 
