@@ -6,18 +6,18 @@
 Welcome to CoolWallet's documentation!
 ===========================================
 
-Indices and tables
-==================
+
 
 .. toctree::
-   :maxdepth: 1
-   :hidden:
+   :maxdepth: 2
    :caption: Deeplink
 
    deeplink/introduction
    deeplink/bitcoin
    deeplink/ethereum
 
+.. toctree::
+   :hidden:
    :caption: WalletConnect
 
    walletconnect/index
