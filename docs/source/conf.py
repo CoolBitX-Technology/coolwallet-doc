@@ -40,6 +40,7 @@ release = u'0.0.1'
 # ones.
 extensions = [
     'recommonmark',
+    'sphinx_markdown_tables',
     'sphinx.ext.autodoc',
     'sphinx_rtd_theme'
 ]
